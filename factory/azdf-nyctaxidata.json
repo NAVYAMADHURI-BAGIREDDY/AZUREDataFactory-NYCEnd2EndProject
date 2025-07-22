@@ -1,0 +1,9 @@
+{
+	"name": "azdf-nyctaxidata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64e39221-bc93-491f-aa82-1f86b5754feb",
+		"tenantId": "170bbabd-a2f0-4c90-ad4b-0e8f0f0c4259"
+	}
+}
